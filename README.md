@@ -144,7 +144,7 @@ urlpatterns = [
 ## SERVER OUTPUT:
 ![server](/img/sop.jpg)
 
-### CLIENT OUTPUT:
+## CLIENT OUTPUT:
 ![client](/img/cop.png)
 
 ## Result:
